@@ -15,4 +15,4 @@ Fichiers Java que nous mettons directement dans le projet. <br>
 Nous mettons les images dans un dossier appelé images <br>
 
 # Comment jouer
-# Sélection des joueurs
+### Sélection des joueurs
