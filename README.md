@@ -16,3 +16,6 @@ Nous mettons les images dans un dossier appelé images <br>
 
 # Comment jouer
 ### Sélection des joueurs
+Lorsque le jeu est chargé, vous devez sélectionner vos joueurs. Vous devez sélectionner le type de lecteur souhaité  : <br> <li>Un joueur puis tu entre le nom</li>
+<li>Deux Joueurs vous entrez votre nom </li> 
+<li>Quitter</li>
