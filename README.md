@@ -1,6 +1,8 @@
 # tic-tac-toe
 
 Tic Tac Toe jeu avec Jave et javafx 
+# JAVAFX
+JavaFX est une plate-forme logicielle permettant de créer et de fournir des applications de bureau, ainsi que des applications Internet riches pouvant fonctionner sur une grande variété de périphériques. JavaFX est destiné à remplacer Swing en tant que bibliothèque d'interface graphique standard pour Java SE, mais les deux seront inclus dans un avenir prévisible
 
 # Description :
 
