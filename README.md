@@ -28,3 +28,8 @@ Si deux joueurs humains ont été sélectionnés, il vous suffit de entrer vos n
 Si c'est votre tour, cliquez simplement sur la position que vous souhaitez jouer sur le plateau. Après cela, l'ordinateur effectuera son déplacement.
 
 <strong>Remarque: un ordinateur sera toujours un joueur parfait.</strong>
+## Commentaires et problèmes:
+
+Nous apprécions vraiment vos commentaires. Si vous souhaitez voir des améliorations dans l'application, vous pouvez envoyer un e-mail  aux : *Bakkouadnane88@gmail.com*  
+*oumai19@outlook.com*
+ *anassdbilij@gmail.com*
