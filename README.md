@@ -30,6 +30,7 @@ Si c'est votre tour, cliquez simplement sur la position que vous souhaitez jouer
 <strong>Remarque: un ordinateur sera toujours un joueur parfait.</strong>
 ## Commentaires et problèmes:
 
-Nous apprécions vraiment vos commentaires. Si vous souhaitez voir des améliorations dans l'application, vous pouvez envoyer un e-mail  aux : *Bakkouadnane88@gmail.com*  
-*oumai19@outlook.com*
- *anassdbilij@gmail.com*
+Nous apprécions vraiment vos commentaires. Si vous souhaitez voir des améliorations dans l'application, vous pouvez envoyer un e-mail  aux : 
+*oumai19@outlook.com* <br>
+*Bakkouadnane88@gmail.com* <br>  
+ *anassdbilij@gmail.com* <br>
