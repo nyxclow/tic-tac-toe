@@ -16,6 +16,13 @@ Nous mettons les images dans un dossier appelé images <br>
 
 # Comment jouer
 ### Sélection des joueurs
-Lorsque le jeu est chargé, vous devez sélectionner vos joueurs. Vous devez sélectionner le type de lecteur souhaité  : <br> <li>Un joueur puis tu entre le nom</li>
-<li>Deux Joueurs vous entrez votre nom </li> 
+Lorsque le jeu est chargé, vous devez sélectionner vos joueurs. Vous devez sélectionner le type de lecteur souhaité  : <br> 
+<li>Un joueur </li>
+<li>Deux Joueurs  </li> 
 <li>Quitter</li>
+### Humain contre Humain.
+Si deux joueurs humains ont été sélectionnés, il vous suffit de entrer vos nom et de cliquer sur une position du plateau pour que le joueur donné puisse y jouer.
+### Humain contre ordinateur.
+Si c'est votre tour, cliquez simplement sur la position que vous souhaitez jouer sur le plateau. Après cela, l'ordinateur effectuera son déplacement.
+
+<strong>Remarque: un ordinateur sera toujours un joueur parfait.</strong>
