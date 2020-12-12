@@ -33,4 +33,4 @@ Si c'est votre tour, cliquez simplement sur la position que vous souhaitez jouer
 Nous apprécions vraiment vos commentaires. Si vous souhaitez voir des améliorations dans l'application, vous pouvez envoyer un e-mail  aux : 
 *oumai19@outlook.com* <br>
 *Bakkouadnane88@gmail.com* <br>  
- *anassdbilij@gmail.com* <br>
+*anassdbilij@gmail.com* <br>
