@@ -14,3 +14,4 @@ Son design peut être facilement modifié depuis le jeu. <br>
 Fichiers Java que nous mettons directement dans le projet. <br>
 Nous mettons les images dans un dossier appelé images <br>
 
+# Comment jouer
