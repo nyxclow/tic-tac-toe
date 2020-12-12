@@ -1,6 +1,6 @@
 # tic-tac-toe
 
-Tic Tac Toe jeu avec Jave and javafx 
+Tic Tac Toe jeu avec Jave et javafx 
 
 # Description :
 
